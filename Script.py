@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """<b><i>I'm Mᴀsᴛᴇʀ ◢ ◤ or you can call me as EvaMaria Bot.Its easy to use me; just add me to your group as admin, thats all, i will provide movies there.</i></b>
+    START_TXT = """<b><i>I'm sᴏᴜᴛʜ ʜᴜʙ.Its easy to use me; just add me to your group as admin, thats all, i will provide movies there.</i></b>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/NEGANX>ɴᴇɢᴀɴ</a>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/@rdcommunity_masterbot>sᴏᴜᴛʜʜᴜʙ</a>"""
     HELP_TXT = """<i>Here is the help for my commands.</i>"""
     ABOUT_TXT = """➥ My Name: <a href=https://t.me/mflinkzbot>Mᴀsᴛᴇʀ ◢ ◤</a>
 ➥ Owners: <a href=https://t.me/Akfronic>Master</a> & <a href=https://t.me/NeganX>Negan</a>
