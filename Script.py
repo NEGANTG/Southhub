@@ -1,12 +1,9 @@
 class script(object):
     START_TXT = """<b><i>I'm sᴏᴜᴛʜ ʜᴜʙ.Its easy to use me; just add me to your group as admin, thats all, i will provide movies there.</i></b>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/@rdcommunity_masterbot>sᴏᴜᴛʜʜᴜʙ</a>"""
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ <a href=https://t.me/rdcommunity_masterbot>sᴏᴜᴛʜʜᴜʙ</a>"""
     HELP_TXT = """<i>Here is the help for my commands.</i>"""
-    ABOUT_TXT = """➥ My Name: <a href=https://t.me/mflinkzbot>Mᴀsᴛᴇʀ ◢ ◤</a>
-➥ Owners: <a href=https://t.me/Akfronic>Master</a> & <a href=https://t.me/NeganX>Negan</a>
-➥ Creators: <a href=https://t.me/TeamEvamaria>Team Eva Maria</a>
-➥ Library: <a href=https://docs.pyrogram.org/>Pyrogram Asyncio 1.13.0</a>
+    ABOUT_TXT = """➥ Library: <a href=https://docs.pyrogram.org/>Pyrogram Asyncio 1.13.0</a>
 ➥ Language: <a href=https://www.python.org/>Python3</a>
 ➥ Database: <a href=https://www.mongodb.com/cloud/atlas>mongoDB</a>
 ➥ server: <a href=https://railway.app/>Railway</a>
